@@ -10,3 +10,10 @@ frontend/build/
 
 # 可選
 .vscode/
+# Flutter ephemeral files (build cache)
+frontend/**/ephemeral/
+*.pdb
+*.dll
+*.so
+*.dylib
+*.exe
